@@ -49,6 +49,7 @@ Each technique aligns with post-hoc explainability practices identified in the C
 
 - `Notebook.ipynb`: Main notebook demonstrating modeling and explainability
 - `data/`: Folder containing processed datasets
+- `Plots/`: Folder containing SVG files of the Notebook plots
 - `README.md`: Project overview and usage guide
 
 ## 📘 Reference
