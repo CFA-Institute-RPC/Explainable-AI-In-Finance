@@ -1,6 +1,6 @@
 # 🧠 Explainable AI in Finance: Fundamental Factor Modeling
 
-This repository explores how Explainable Artificial Intelligence (XAI) methods can be applied to machine learning models used for a case study in fundamental factor investing. It accompanies the [CFA Institute's draft report on Explainable AI in Finance (2025)](link-to-report-if-applicable), illustrating the practical use of post-hoc explainability tools in financial modeling.
+This repository explores how Explainable Artificial Intelligence (XAI) methods can be applied to machine learning models used for a case study in fundamental factor investing. It accompanies the [CFA Institute's report on 'Explainable AI in Finance: Addressing the Needs of Diverse Stakeholders' (2025)](https://rpc.cfainstitute.org/research/reports/2025/explainable-ai-in-finance), illustrating the practical use of post-hoc explainability tools in financial modeling.
 
 ## 📊 Project Overview
 
@@ -56,7 +56,7 @@ Each technique aligns with post-hoc explainability practices identified in the C
 
 This notebook was developed to complement the CFA Institute’s research on human-centered AI systems in finance, particularly:
 
-> *"Explainable AI in Finance for Multiple Stakeholders (CFA Institute, 2025)"*
+> *"Explainable AI in Finance: Addressing the Needs of Diverse Stakeholders (CFA Institute, 2025)"*
 
 ## 🤝 Contributing
 
