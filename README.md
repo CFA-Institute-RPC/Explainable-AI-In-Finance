@@ -56,7 +56,7 @@ Each technique aligns with post-hoc explainability practices identified in the C
 
 This notebook was developed to complement the CFA Institute’s research on human-centered AI systems in finance, particularly:
 
-> *"Explainable AI in Finance: Addressing the Needs of Diverse Stakeholders (CFA Institute, 2025)"*
+> *"[Explainable AI in Finance: Addressing the Needs of Diverse Stakeholders (CFA Institute, 2025)](https://rpc.cfainstitute.org/research/reports/2025/explainable-ai-in-finance)"*
 
 ## 🤝 Contributing
 
